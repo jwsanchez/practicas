@@ -12,6 +12,7 @@
         doloribus libero incidunt harum, numquam odio assumenda natus minima qui quasi sit ratione quas! Voluptate,
         provident.</p>
     <h1><?php echo "Hola mundo" ?></h1>
+    <p>Iniciando</p>
 </body>
 
 </html>
