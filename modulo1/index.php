@@ -8,11 +8,8 @@
 </head>
 
 <body>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti delectus error iste laboriosam. Consectetur
-        doloribus libero incidunt harum, numquam odio assumenda natus minima qui quasi sit ratione quas! Voluptate,
-        provident.</p>
-    <h1><?php echo "Hola mundo" ?></h1>
-    <p>Iniciando</p>
+    <h1>Esta es la rama de ajustes</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed doloremque consequatur veniam dolor, quos quia ipsam molestias animi libero labore reiciendis similique qui inventore totam! Sapiente sed incidunt ipsa ratione!</p>
 </body>
 
 </html>
