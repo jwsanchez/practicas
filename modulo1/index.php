@@ -8,6 +8,7 @@
 </head>
 
 <body>
+<<<<<<< HEAD
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti delectus error iste laboriosam. Consectetur
         doloribus libero incidunt harum, numquam odio assumenda natus minima qui quasi sit ratione quas! Voluptate,
         provident.</p>
