@@ -12,7 +12,7 @@
         doloribus libero incidunt harum, numquam odio assumenda natus minima qui quasi sit ratione quas! Voluptate,
         provident.</p>
     <h1><?php echo "Hola mundo" ?></h1>
-    <p>Iniciando</p>
+    <h2>SOy la rama Master</h2>
 </body>
 
 </html>
