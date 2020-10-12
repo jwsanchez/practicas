@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    margin: 10px;
+}
+.padre{
+    border: solid black 1px;
+}
+
+.padre p{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 20px;
+    padding: 2px;
+    color: #fff;
+    background-color:rgb(65, 62, 62);
+    font-size: 20px;
+    font-family: Century Gothic;
+}
