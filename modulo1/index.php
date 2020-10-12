@@ -4,15 +4,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Arrays</title>
 </head>
-
 <body>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti delectus error iste laboriosam. Consectetur
-        doloribus libero incidunt harum, numquam odio assumenda natus minima qui quasi sit ratione quas! Voluptate,
-        provident.</p>
-    <h1><?php echo "Hola mundo" ?></h1>
-    <h2>SOy la rama Master</h2>
+    <h1>Practica de Arrays</h1>
+    <?php
+    #Arrays Asosiativos multidimencionales
+    $suscriptores=[
+        'usuario1'=>['Pablo', 15 , 'Colombia'],
+        'usuario2'=>['Jesus',24,'Sanchez']
+    ];
+    //var_dump($suscriptores);
+    print_r($suscriptores);
+    ?>
 </body>
-
 </html>
