@@ -11,11 +11,17 @@
     <?php
     #Arrays Asosiativos multidimencionales
     $suscriptores=[
-        'usuario1'=>['Pablo', 15 , 'Colombia'],
-        'usuario2'=>['Jesus',24,'Sanchez']
+        ['nombre'=> 'Thaliana', 'edad'=> 7 , 'pais'=>'Colombia'],
+        ['nombre'=> 'Jesus', 'edad'=> 24 , 'pais'=>'Colombia'],
+        ['nombre'=> 'Valentina', 'edad'=> 25 , 'pais'=>'Colombia'],
+
     ];
     //var_dump($suscriptores);
-    print_r($suscriptores);
+    $contador = count($suscriptores);
+    for ($detener = 0; $detener<$contador; $detener++){
+        echo "<p>"."Hola mi nombre es ".$suscriptores[$detener]['nombre'] . " , tengo ". $suscriptores[$detener]['edad'] . ' años'.', soy de '. $suscriptores[$detener]['pais'] ."</p>";
+    }
+    //echo $detener;
     ?>
 </body>
 </html>
