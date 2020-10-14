@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="styles/estilos.css">
 </head>
 <body>
-    <h1>Practica de Arrays</h1>
-    <div class="padre">
+    <h1>Practica de POO</h1>
+    <!-- <div class="padre">
     <?php
     #Arrays Asosiativos multidimencionales
     $suscriptores=[
@@ -25,6 +25,6 @@
     }
     //echo $detener;
     ?>
-    </div>
+    </div> -->
 </body>
 </html>
