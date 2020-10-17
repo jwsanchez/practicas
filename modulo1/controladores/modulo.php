@@ -16,7 +16,7 @@ class Persona{
     }
 }
 
-$jesus = new Persona('Jesus', 24, 'morena');
+$jesus = new Persona('Jesus', 24, 'Morena');
 echo $jesus -> crearPersona();
 
 
