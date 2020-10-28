@@ -9,7 +9,6 @@
 </head>
 <body>
     <h1>Practica de POO</h1>
-    
     <!-- <div class="padre">
     <?php
     #Arrays Asosiativos multidimencionales
